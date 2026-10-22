@@ -22,5 +22,10 @@
   },
   "jest": {
     "testTimeout": 20000
+  },
+  "resolutions": {
+    "ws": "^8.21.0",
+    "elliptic": "^6.6.1",
+    "@koa/cors": "^5.0.0"
   }
 }
